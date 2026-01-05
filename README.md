@@ -6,4 +6,4 @@ View the notebook: [Mid-TermassignmentWIDS.ipynb](./Mid-TermassignmentWIDS.ipynb
 
 
 Other Coding work done during the Project-Study:
-View the script: (./bankaccount.py)
+View the script:[bankaccount.py](./bankaccount.py)
