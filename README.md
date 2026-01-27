@@ -3,7 +3,7 @@ A beginner-friendly guide to Machine Learning covering core concepts, mathematic
 Mid Term assignment-
 View the notebook: [Mid-termassignmentWIDS.ipynb](./Mid-termassignmentWIDS.ipynb)
 Endterm assignment-
-endtermsubmission.py 
+[endtermsubmission.py](./endtermsubmission.py)
 
 
 
