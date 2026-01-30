@@ -4,6 +4,8 @@ Mid Term assignment-
 View the notebook: [Mid-termassignmentWIDS.ipynb](./Mid-termassignmentWIDS.ipynb)
 Endterm assignment-
 [endtermsubmission.py](./endtermsubmission.py)
+Detailed report including what i learnt from the project-
+[EndtermpdfreportWIDS.docx](./EndtermpdfreportWIDS.docx)
 
 
 
